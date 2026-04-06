@@ -1,0 +1,17 @@
+* {
+   background-color: rgb(255, 255, 255); 
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    font-size: 3vw;
+
+}
